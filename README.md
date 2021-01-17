@@ -32,10 +32,10 @@ make
 
 To view any file in Kilo, run
 ```
-./kilo <filename>.c
+./kilo <filename>
 ```
 
-## Helful Commands
+## Helpful Commands
 ```
 Ctrl-Q : Quit
 Ctrl-S : Save
