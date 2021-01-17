@@ -53,3 +53,4 @@ dkms.conf
 
 # local sample files for testing
 sample.txt
+sample.*
